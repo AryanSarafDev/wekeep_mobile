@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256140188398",
+    "project_id": "wekeep-23862",
+    "storage_bucket": "wekeep-23862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256140188398:android:8c1ac2ebaff309bca671ff",
+        "android_client_info": {
+          "package_name": "com.wekeepmobile.wekeep_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256140188398-r601i3k8f13sapf6g129hk0qb6cp3adh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-U77vveq3y1_kGiFJkjnVG88_KnVxJlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256140188398-9lccovqtnh6o6o7cnli74lrqvle17duc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
